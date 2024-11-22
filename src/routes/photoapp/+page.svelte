@@ -60,6 +60,7 @@ let picture = "https://picsum.photos/id/93/367/267"
                 border-radius: 20px;
                 border: 2px solid #1da7a7;
                 box-shadow: 4px 8px 10px rgba(0,0,0,0.2);
+                
         }
 
         .image-wrapper{
