@@ -27,6 +27,7 @@
 	<a href= "{base}/">Hem</a>
 	<a href= "{base}/register">register</a>
     <a href= "{base}/login">login </a>
+    <a href= "{base}/shoppinglist">shoppinglist</a>
 </nav>
 <style>
 :global(body), :global(html){
@@ -34,6 +35,7 @@
   padding: 0%;
   height: 100vh;
   width: 100vw;
+  overflow: hidden;
 }    
 
 </style>
