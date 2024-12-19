@@ -209,4 +209,17 @@ aside{
     z-index: 1;
 }
 
+@media (min-height: 500px){
+  main{
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(3, 100px);
+  }
+}
+@media (max-height: 500px){
+  main{
+    grid-template-columns: repeat(6, 100px);
+    grid-template-rows: repeat(2, 100px);
+  }
+}
+          
 </style>
