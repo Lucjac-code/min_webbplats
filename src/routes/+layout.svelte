@@ -28,6 +28,7 @@
 	<a href= "{base}/register">register</a>
     <a href= "{base}/login">login </a>
     <a href= "{base}/shoppinglist">shoppinglist</a>
+    <a href= "{base}/memory">memory</a>
 </nav>
 <style>
 :global(body), :global(html){
