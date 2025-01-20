@@ -29,6 +29,8 @@
     <a href= "{base}/login">login </a>
     <a href= "{base}/shoppinglist">shoppinglist</a>
     <a href= "{base}/memory">memory</a>
+    <a href= "{base}/chat">chat</a>
+    <a href= "{base}/search">search</a>
 </nav>
 <style>
 :global(body), :global(html){
