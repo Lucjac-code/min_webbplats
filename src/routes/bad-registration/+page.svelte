@@ -86,7 +86,7 @@
             </div>
         
     
-        <button class ="login" on:click={()=>{alert("Your virus is now downloaded, and will sonn replace your drivers!")}}>Register and get a free virus</button>
+        <button class ="login" on:click={()=>{alert("Your virus is now downloaded, and will soon replace your drivers!")}}>Register and get a free virus</button>
     
 
     </div>
