@@ -31,6 +31,8 @@
     <a href= "{base}/memory">memory</a>
     <a href= "{base}/chat">chat</a>
     <a href= "{base}/search">search</a>
+    <a href= "{base}/bad-login">bad-login</a>
+    <a href= "{base}/bad-registration">bad-registration</a>
 </nav>
 <style>
 :global(body), :global(html){

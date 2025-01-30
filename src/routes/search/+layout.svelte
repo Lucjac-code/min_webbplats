@@ -1,10 +1,11 @@
 <script>
+/*??"[]"
+onmount*/
 
 </script>
 
 <main>
     <slot>
-
     </slot>
 </main>
 <div class="backdrop">
@@ -14,7 +15,7 @@
 main{
     width:80vw;
     height:100vh;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(209, 209, 209, 0.8);
     margin: 5vh auto;
     border-radius: 10px;
     display: flex;
