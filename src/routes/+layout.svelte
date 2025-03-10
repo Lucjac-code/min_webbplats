@@ -22,7 +22,7 @@
 	storePopup.set({ computePosition, autoUpdate, flip, shift, offset, arrow });
 	import { base } from '$app/paths';
 </script>
-<nav>
+<nav style="display:flex; overflow-x:scroll; height:40px; overflow-y:hidden;">
 	<a href="{base}/photoapp">Photo App</a>
 	<a href= "{base}/">Hem</a>
 	<a href= "{base}/register">register</a>
@@ -32,7 +32,10 @@
     <a href= "{base}/chat">chat</a>
     <a href= "{base}/search">search</a>
     <a href= "{base}/bad-login">bad-login</a>
-    <a href= "{base}/bad-registration">bad-registration</a>
+    <a href= "{base}/bad-registration">bad-reg</a>
+	<a href= "{base}/pong-game">pong-game</a>
+	<a href= "{base}/projekt-3">projekt 3</a>
+	<a href= "{base}/prov">prov</a>
 </nav>
 <style>
 :global(body), :global(html){

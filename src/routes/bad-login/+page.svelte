@@ -9,7 +9,9 @@
     // max %
     let maxWidth = 95;
     let maxHeight = 90;
-
+    function funv(){
+        username= "123"
+    }
     function randomizeLetter(letter){
         let tempLeft;
         let tempTop;
@@ -80,6 +82,7 @@
         <button class:ani={ani} on:click={()=>addLetter(letter,i)} 
                 style="top:{top}%; left:{left}%;">
             {letter}
+            
         </button>
     {/each}
 </div>
